@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'basic_bottom_navbar.dart';
-import 'preserving_state.dart';
-import 'with_tabbar.dart';
-import 'hide_navigation_bar.dart';
+import 'basic_card.dart';
 
 void main() {
   runApp(const MyApp());
